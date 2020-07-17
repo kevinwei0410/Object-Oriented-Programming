@@ -1,7 +1,7 @@
 # Object-Oriented-Programming
 <br/>
 
-## From C to C++
+* From C to C++
 ## C++ Functions and Scopes
 ## Pointers and References
 ## Classes and Objects
